@@ -1,0 +1,52 @@
+# Ignore auto-generated files and directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore asset bundles
+[Aa]sset[Bb]undles/
+
+# Ignore Visual Studio/MonoDevelop/JetBrains Rider specific files
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.user
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Ignore crash reports
+*.stacktrace
+
+# Ignore Unity specific files
+[Dd]ebugLog.txt
+/Assets/StreamingAssets/UnityCrashReports/
+
+# Ignore other generated files
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.log
+*.ipa
+
+# Ignore JetBrains Rider's workspace folder
+.idea/
+
+# Ignore Unity Cloud Build specific files
+*.cloud
+
+# Ignore temporary files created by the OS
+.DS_Store
+Thumbs.db
+Desktop.ini
